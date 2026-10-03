@@ -1,14 +1,10 @@
-<p align="center">
-  <img src="assets/banner.svg" alt="Gian Villarini · zaesho — Broadcast, code, and a little physics." width="100%" />
-</p>
+### Hey, I'm Gian — you might know me as zae.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gianvillarini/">LinkedIn</a> ·
   <a href="https://liquipedia.net/rainbowsix/Zaesho">Broadcast credits</a> ·
   <a href="https://www.behance.net/gianvillarini">Creative work</a>
 </p>
-
-### Hey, I'm Gian — you might know me as zae.
 
 I’m a **broadcast producer, director, and engineer**, a **physics student at RIT**, and a developer who likes understanding how things work all the way down.
 
@@ -29,7 +25,6 @@ My work moves between esports shows, software for the people running them, and e
 | **[FlashEmbed](https://github.com/zaesho/FlashEmbed)** | GPU inference for embedding models, with short-query optimizations, FP8 document indexing, and retrieval-quality checks. |
 | **[S1Rank](https://github.com/zaesho/S1Rank)** | An independent study of Jev as a retrieval reranker: benchmarks, raw responses, calibration experiments, and a paper. |
 | **[PC-ALM Anchor](https://github.com/zaesho/pc-alm-anchor)** | Exploring why predictive-coding inference loses gradient accuracy, and testing forward-anchored damping through theory and experiments. |
-| **[Special Relativity, Animated](https://github.com/zaesho/phys-isr)** | Manim animations explaining time dilation. A little physics, made visible. |
 
 I also work on forks of **[MonoCode](https://github.com/zaesho/monocode)**, **[T3 Code](https://github.com/zaesho/t3code)**, **[Cua](https://github.com/zaesho/cua)**, and **[RustDesk](https://github.com/zaesho/rustdesk)**, exploring coding-agent integrations, computer use, and remote access.
 
