@@ -1,4 +1,4 @@
-### Hey, I'm Gian — you might know me as zae.
+### Hey, I'm Gian — you might know me as Zae.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gianvillarini/">LinkedIn</a> ·
