@@ -1,4 +1,4 @@
-### Hey, I'm Gian — you might know me as Zae.
+### Hey, I'm Gian! you might know me as Zae.
 
 <p align="center">
   <a href="https://www.linkedin.com/in/gianvillarini/">LinkedIn</a> ·
@@ -6,16 +6,16 @@
   <a href="https://www.behance.net/gianvillarini">Creative work</a>
 </p>
 
-I’m a **broadcast producer, director, and engineer**, a **physics student at RIT**, and a developer who likes understanding how things work all the way down.
+I’m a **broadcast producer, director, and engineer**, a **physics student at RIT**, and a curious mind who likes digging into as many things as possible!
 
-My work moves between esports shows, software for the people running them, and experiments in machine learning. Some days that means a vMix show file and a room full of production gear. Other days it means a GPU benchmark, a stubborn Rust bug, or a page of equations.
+My work moves between Esports broadcasts, software for the people running them, and experiments in ML. That means most days im at class, or running show. And most nights im enabling my scatterbrain in whatever-the-hell-else I can think of.
 
 ### From the control room to the codebase
 
 - **Live production:** Rainbow Six Siege broadcasts with FRAGADELPHIA, Nerd Street, BLAST, and Crucible Media, including directing the **Six Invitational 2024** in São Paulo.
 - **Broadcast tools:** real-time match data, statistics, graphics workflows, and operator controls that have to make sense when the show is live.
 - **Software:** desktop tools for coding agents, remote workflows, and the infrastructure that connects them.
-- **Research:** GPU inference, information retrieval, and predictive coding. I like experiments with reproducible results, including the ones that don’t support the original idea.
+- **Research:** GPU inference, information retrieval, and predictive coding. 
 - **Physics:** studying at Rochester Institute of Technology, with minors in Mathematics and Quantum Information Science.
 
 ### A few things I've been working on
